@@ -1,0 +1,213 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    width: 160px;
+    height: 70px;
+}
+
+#go{
+    color: black;
+    font-weight: bold;
+    border: 0px;
+}
+
+
+#go:hover{
+    color: maroon;
+}
+
+.b1{
+    background-color: maroon;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 0px;
+    margin-left: 20px;
+}
+
+.b1:hover{
+    background-color: gray;
+    color: maroon;
+}
+
+.bgimg1{
+    background-image: url('https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg');
+    height: 80vh;
+    background-size: cover;
+}
+
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.para1{
+    font-size: 24px;
+    font-weight: 300;
+    color: #f5f7fa;
+}
+
+.b2{
+    color: white;
+    background-color: maroon;
+    width: 230px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.bgcolor1{
+    background-color: #f9fbfe;
+}
+
+.head2{
+    color:#183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.para2{
+    color: #5a7184;
+    font-size: 16px;
+}
+
+.carding{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.cardimg{
+    width: 87px;
+    height: 90px;
+}
+
+.chead{
+    color: #323f4b;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.cpara{
+    color: #7b8794;
+    font-size: 16px;
+}
+
+span{
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.bgcolor2{
+    background-color: white;
+}
+
+.explorehead{
+    color:#183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.explorecard{
+    border-radius: 16px;
+}
+
+.exploreimg{
+    border-radius: 16px;
+}
+
+.explorelink{
+    color: #c90202;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.cardhead4{
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+
+.paybgimg{
+    background-color: white;
+}
+
+.paymentimg{
+    width: 350px;
+}
+
+.payhead{
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.paypara{
+    color: #5a7184;
+    font-size: 16px;
+}
+
+.paybutton{
+    color: white;
+    background-color: #c90202;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.paycardimg{
+    width:50px;
+    height: 50px;
+    margin-left: 28px;
+    /* margin-top:28px */
+    /* margin-left: 10px; */
+}
+
+.contactus{
+    background-color: #6b7278;
+}
+
+.contacthead{
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+iframe{
+    width: 450px;
+}
+
+input{
+    margin-bottom: 15px;
+}
+
+#email,#sub{
+    height: 30px;
+}
+
+#contactbtn{
+    margin-top: 30px;
+    background-color: green;
+}
+
+
+#facebook,#linkedin,#insta{
+    margin: 40px;
+    
+}
+
+#icons{
+    margin: auto;
+}
